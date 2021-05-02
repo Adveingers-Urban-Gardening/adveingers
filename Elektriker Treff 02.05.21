@@ -1,14 +1,7 @@
 Boost Power Converter XL6009 (https://www.amazon.de/dp/B06ZYYC99S/)
 Spannungsanpassung:
 Tests auf die Probe : 
-In: 3V    out: 12V   0.4A   4.8W 
 in: 5V    out: 12V   0.8A    9.6W 
-in: 7.4V  out: 12V  1.5A    18W 
-in: 12V   out: 15V   2A      30W 
-in: 12V   out: 16V   2A      32W 
-in: 12V   out: 18V  1.6A    28.8W 
-in: 12V   out: 19V   1.5A   28.5W 
-in: 12V   out: 24V   1 A     24W 
 Eingangsspannung: 3,2 V-42V 
 Ausgangsspannung: 5 V-35V 
 Leistungsstarke Spannungsversorgung für da er bis zu 3 Ampere aushält
