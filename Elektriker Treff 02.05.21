@@ -38,4 +38,4 @@ Ausgang: Analogwert, per Spannungsteiler auf Maximalwert 5V bringen.
 Mit dem Spannungsteiler auf 3.3V runterregeln und ausprobieren!
 analog Bodenfeuchtesensor auf 3.3V --> Wie müssen die Werte interpretiert werden? Testen welcher Spannungsoutput bei 5 VCC.
 digital Temperatursensor auf 3.3V
-Durchflussensor, Testen bei 3mm Schlauch 5-10cm abschneiden und mit Wasserstandtesten wie viel rausläuft --> Falls es zu langsam ist
+Durchflussensor, Testen bei 3mm Schlauch 5-10cm abschneiden und für eine Wasserstandhöhe von 10 cm testen wie viel rausläuft --> Falls es zu langsam ist
