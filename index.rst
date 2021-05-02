@@ -6,7 +6,7 @@ Fuck em thats why
 
 Normaler Text
 
-* Azet ausm Kazet
+call an ambulance, call an ambulance, but not for me. https://www.youtube.com/watch?v=Nm4vxE5xY_k
 * Miamy Yasmin
 * Zuna
 
