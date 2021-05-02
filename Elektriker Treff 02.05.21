@@ -20,6 +20,12 @@ Standard-Lochabstand von 2,54 mm (0,1 inch)
 Flexibles Bestücken durch beidseitig mögliches Verlöten.
 M2-Montagelöcher
 
+2.7inch e-Paper HAT
+Versorgungsspannung 5V (3.3V ginge auch) 
+Kommunikation über SPI interface, siehe: https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT
+Wegen der 5V Versorgespannung müssen wahrscheinlich alle Ausgangssignale per hochohmigen 2:1 Spannungsteiler auf einen maximalwert von 3.3V herruntergeregelt 
+werden bevor sie an den ESP angelegt werden.
+
 Temperatursonde DS18B20
 Versorgungsspannung 5V (alternativ gingen auch 3.3V)
 Ausgang: Digitalwert (One-Wire-Bus). Der Ausgang wird sicherheitshalber per Spannungsteiler auf 3.3V Maximalwert gebracht (Annahme Digitalwerte sind bis zu 5V)
